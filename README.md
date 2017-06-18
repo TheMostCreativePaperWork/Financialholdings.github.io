@@ -4,10 +4,10 @@ Feel free and enjoy it!
 
 ### Markdown
 
-```
+
 
 ![Image](http://pic.pimg.tw/abig99/1378401619-3633440417.jpg)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
